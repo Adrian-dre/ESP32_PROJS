@@ -1,9 +1,9 @@
-const int OUT = 2;          // IR Proximity Sensor pin
-const int ledPin = 13;      // LED pin
+const int OUT = 2;          
+const int ledPin = 13;     
 
-int Number_of_Object = 0;   // Counter for objects
-int SensorState = 0;        // Current sensor reading
-int lastSensorState = HIGH; // Previous sensor reading to track state changes
+int Number_of_Object = 0;  
+int SensorState = 0;        
+int lastSensorState = HIGH; 
 
 void setup() {
   Serial.begin(9600);
