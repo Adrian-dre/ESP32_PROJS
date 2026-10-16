@@ -1,5 +1,5 @@
 /*============================================
-            DIGITAL OUTPUT LED
+                  IR DEMO
   ============================================
   Description:
     This program detects objects with the use 
