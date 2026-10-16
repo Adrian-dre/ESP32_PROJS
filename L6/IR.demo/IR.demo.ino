@@ -1,3 +1,18 @@
+/*============================================
+            DIGITAL OUTPUT LED
+  ============================================
+  Description:
+    This program detects objects with the use 
+    of an IR sensor
+    
+  Programmer:
+    Caberoy, Adrian Miko A.
+    Vigilar, Franz Louis G.
+
+  Date:
+   14 October, 2026
+   ------------------------------------------*/
+
 const int OUT = 2;          
 const int ledPin = 13;     
 
